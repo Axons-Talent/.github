@@ -22,15 +22,15 @@ Our technical foundation is firmly based on functional/secure programming paradi
 
 
 ## Current Openings
-### 🐫🐫🐫**Senior Full Stack OCaml/Rust Engineer**🐫🐫🐫
-We are constantly on the hunt for Senior Full Stack OCaml/Rust Engineers to join our development effort on the interview assessment and interviewer platform. If you have the skills for any of the attributes listed below, we'd very much like to hear from you:
+### 🐫🐫🐫**Senior Full Stack OCaml Engineer**🐫🐫🐫
+We are constantly on the hunt for Senior Full Stack OCaml Engineers to join our development effort on the interview assessment and interviewer platform. If you have the skills for any of the attributes listed below, we'd very much like to hear from you:
 
-- High quality production/hobby experience with OCaml and/or Rust
+- High quality production/hobby experience with OCaml or Haskell
 - If you only know one of them and willing to learn the other
-- Have good experience or familiar with OCaml Dream framework
-- High quality production/hobby experience with ReasonML and Melange related toolings
-- Have good experience or familiar with Rust Leptos/Axum framework or similar
+- Have good experience or familiar with various OCaml web frameworks
+- High quality production/hobby experience with ReasonML + Melange and/or Rescript related toolings
 - Solid understanding and demonstratable experience with functional programming principles
+- Willing to contribute to the OCaml ecosystem overall
 
 Your good understanding of various topics in static analysis would be looked upon favourably, also it would be ideal if you have good experience with LLM training and fine tuning process, as these form the basis of our coding assessment and scoring system. Ideally you would be based in Australia but we also facilitate remote work arrangement for candidates with the right skillset.
 
